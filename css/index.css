@@ -12,3 +12,11 @@ button{
     background-color:skyblue;
     border:none;
 }
+
+.show{
+    display:block;
+}
+
+.hide{
+    display:none;
+}
