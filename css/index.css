@@ -1,0 +1,14 @@
+div{
+    width: 400px;
+    height: 400px;
+    background-color:deeppink;
+    margin: 40px;
+    text-align: center;
+    line-height: 200px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    background-color:skyblue;
+    border:none;
+}
